@@ -17,7 +17,7 @@ namespace Blog
             //Blogs bsObj = new Blogs()
             //{
             //    Name = "estradawebgroup",
-            //    Description = "Compartir conocimiento" //prueba desde consola git hub
+            //    Description = "Compartir conocimiento"
             //};
             ////Convert Blog object to JOSN string format
             //string jsonData = JsonConvert.SerializeObject(bsObj);
