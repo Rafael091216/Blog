@@ -13,16 +13,16 @@ namespace Blog
         {
 
 
-           // //Creating Blog object
-           //Blogs bsObj = new Blogs()
-           //{
-           //    Name = "estradawebgroup",
-           //    Description = "Compartir conocimiento"
-           //};
-           // //Convert Blog object to JOSN string format
-           // string jsonData = JsonConvert.SerializeObject(bsObj);
-           // Console.Write(jsonData);
-           // Console.ReadKey();
+            ////Creating Blog object
+            //Blogs bsObj = new Blogs()
+            //{
+            //    Name = "estradawebgroup",
+            //    Description = "Compartir conocimiento" //prueba desde consola git hub
+            //};
+            ////Convert Blog object to JOSN string format
+            //string jsonData = JsonConvert.SerializeObject(bsObj);
+            //Console.Write(jsonData);
+            //Console.ReadKey();
 
             string json = @"{
 'Unidad': '907535223st',
