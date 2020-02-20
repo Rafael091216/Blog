@@ -30,7 +30,7 @@ namespace Blog
 }";
 
             Blogs m = JsonConvert.DeserializeObject<Blogs>(json);
-            Console.Write(m.Unidad);
+            Console.Write(m.Unidad); //MUESTRA LA UNIDAD
             Console.WriteLine(m.Descripcion);
             Console.ReadKey();
 
